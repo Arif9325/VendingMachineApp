@@ -46,7 +46,7 @@ If the user attempts to check out without any items in the shopping cart, a dial
 ## Screenshots
 
 ### Vending Machine Interface
-![Vending Machine Interface](https://github.com/Arif9325/VendingMachineApp/img/Ui.png)
+![Vending Machine Interface](VendingMachineApp/img/Ui.png)
 
 ### Receipt (Card Payment)
 ![Receipt for Card Payment](https://github.com/Arif9325/VendingMachineApp/img/CardOption.png)
