@@ -49,13 +49,13 @@ If the user attempts to check out without any items in the shopping cart, a dial
 ![Vending Machine Interface](https://github.com/Arif9325/VendingMachineApp/img/Ui.png)
 
 ### Receipt (Card Payment)
-![Receipt for Card Payment](https://github.com/Arif9325/VendingMachineApp/img/CashReceipt.png)
+![Receipt for Card Payment](https://github.com/Arif9325/VendingMachineApp/img/CardOption.png)
 
 ### Cash Option (Cash Payment)
-![Receipt for Cash Payment](https://github.com/Arif9325/VendingMachineApp/img/CashPayment.png)
+![Receipt for Cash Payment](https://github.com/Arif9325/VendingMachineApp/img/CardPayment.png)
 
 ### Receipt (Cash Payment)
-![Receipt for Cash Payment](https://github.com/Arif9325/VendingMachineApp/img/CardReceipt.png)
+![Receipt for Cash Payment](https://github.com/Arif9325/VendingMachineApp/img/CashReceipt.png)
 
 ---
 
